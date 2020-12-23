@@ -11,6 +11,7 @@ const _fontsLookup = {
     sinclair_8x8:'8x8/sinclair-font-8x8',
     sinclair_inverted_8x8:'8x8/sinclair-inverted-font-8x8',
     tiny_8x8:'8x8/tiny-font-8x8',
+    cp437_8x8:'8x8/cp437-font-8x8',
 
     myke2_8x9:'8x9/myke2-font-8x9',
 

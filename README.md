@@ -39,6 +39,18 @@ http://www.rinkydinkelectronics.com/contact.php
 
 
 
+## Version History:
+
+### 1.0.0
+
+- Initial Release
+
+### 1.0.1
+
+- Add font **cp437_8x8** (<u>Glyph's imported from NPM max7219-display</u>) 
+
+
+
 ## Names of available fonts
 
 - **oled_3x5**
@@ -48,6 +60,7 @@ http://www.rinkydinkelectronics.com/contact.php
 - **sinclair_8x8**
 - **sinclair_inverted_8x8**
 - **tiny_8x8**
+- **cp437_8x8** 
 - **myke2_8x9**
 - **small_8x12**
 - **tron_8x12**
