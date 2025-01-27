@@ -1,6 +1,6 @@
 {
   "name": "oled-font-pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A set of fonts made for oled displays, compatible with oled-i2c-bus version 1.0.12 and higher.",
   "main": "index.js",
   "scripts": {
